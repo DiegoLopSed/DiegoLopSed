@@ -1,43 +1,62 @@
-# 👨‍💻 Diego López Sedeño
+<h2 align="left">Hi 👋! My name is Diego López and I'm a software developer from Puebla, México 🇲🇽</h2>
 
-¡Hola! Soy un estudiante de Ingeniería en Sistemas y Tecnologías de la Información en la Universidad del Valle de Puebla, con más de 3 años de experiencia práctica en desarrollo de software y gestión de infraestructura en la nube. Me especializo en el desarrollo **backend**, aunque también he trabajado en **integración de sistemas, diseño de bases de datos** y **automatización de procesos empresariales**.
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLopSed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoLopSed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Intereses y Enfoque
-- 🔧 Desarrollo backend con PHP, Laravel, Python y Node.js
-- ☁️ Infraestructura en la nube con **AWS (EC2, S3, IAM, Route 53)**
-- 🗃️ Modelado y optimización de **bases de datos relacionales (MySQL, MariaDB)**
-- 🔐 Seguridad de aplicaciones y buenas prácticas (PDO, validación, gestión de sesiones)
-- 📊 Digitalización de procesos internos y evaluación de desempeño organizacional
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 📚 Actualmente aprendiendo
-- 🔁 Node.js y Express para APIs REST modernas
-- ⚙️ Laravel para desarrollo backend estructurado
-- 🧩 Integración de servicios AWS con SDK en producción
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</div>
 
-## 🤝 Me gustaría colaborar en...
-- Proyectos de desarrollo backend
-- Automatización de procesos empresariales
-- Plataformas educativas o sistemas de gestión
+###
 
----
+<div align="left">
+  <p>🎓 I'm studying Engineering in Systems and Information Technologies at Universidad del Valle de Puebla.</p>
+  <p>💻 I have 3+ years of experience in backend and full-stack development.</p>
+  <p>🧠 Currently learning: Node.js and Laravel</p>
+  <p>🚀 I’ve worked on web applications, database management, AWS infrastructure, and internal tools for companies like FFT México.</p>
+  <p>📚 I also have experience as a programming teacher and mentor.</p>
+</div>
 
-## 📫 Contacto
-Puedes contactarme directamente a través de:
-- ✉️ **Correo electrónico:** diegolopsed160703@gmail.com  
-- 📱 **WhatsApp/Teléfono:** +52 221 235 4124
+###
 
----
+<div align="left">
+  <a href="mailto:diegolopsed160703@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/diegolopsed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/DiegoLopSed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+</div>
 
-### ⚡ Fun fact
-Además de programar, disfruto compartir mis conocimientos como asesor y profesor de programación, siempre buscando aprender algo nuevo cada día.
+###
 
-<!---
-DiegoLopSed/DiegoLopSed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
