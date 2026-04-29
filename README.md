@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Diego López and I'm a software developer from Puebla, México 🇲🇽</h2>
+<h1 align="center">Hi 👋! My name is Diego López</h1>
+
+<p align="center">Software developer from Puebla, México 🇲🇽</p>
 
 ###
 
@@ -9,7 +11,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
@@ -42,10 +44,7 @@
   <p>🏢 I’ve contributed to internal platforms, file management systems, performance evaluation tools, and multimedia content systems for FFT México.</p>
   <p>📚 I also have experience as a programming teacher and mentor, helping others grow in software development.</p>
 </div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="mailto:diegolopsed160703@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -59,8 +58,10 @@
 
 ###
 
+![snake gif](https://github.com/DiegoLopSed/DiegoLopSed/blob/output/github-snake-dark.svg)
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
