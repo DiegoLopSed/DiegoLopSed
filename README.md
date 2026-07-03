@@ -1,67 +1,187 @@
-<h1 align="center">Hi 👋! My name is Diego López</h1>
+<div align="center">
 
-<p align="center">Software developer from Puebla, México 🇲🇽</p>
+# Hi 👋! I'm Diego López Sedeño
 
-###
+**Backend & Full Stack Software Developer · Mexico 🇲🇽**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=BD93F9&center=true&vCenter=true&width=540&lines=Building+scalable+backend+systems+%26+RESTful+APIs;Designing+high-performance+database+architectures;Deploying+production+apps+on+AWS+cloud+infrastructure)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Developer-6272A4?style=for-the-badge&labelColor=282A36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-BD93F9?style=for-the-badge&labelColor=282A36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Infrastructure-50FA7B?style=for-the-badge&labelColor=282A36"/>
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/DiegoLopSed?label=Follow&style=for-the-badge&logo=github&labelColor=282A36&color=BD93F9)](https://github.com/DiegoLopSed)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=DiegoLopSed&style=for-the-badge&color=BD93F9&labelColor=282A36&label=Profile+Views)](https://github.com/DiegoLopSed)
+
+</div>
+
+---
+
+## About Me
+
+Backend & Full Stack Software Developer from Mexico, passionate about building **scalable systems**, solving real-world problems, and continuously learning new technologies.
+
+- 🎓 **Systems and Information Technologies Engineering** student at Universidad del Valle de Puebla (UVP).
+- 💼 Focused on **backend development**, cloud infrastructure, software architecture, database optimization, and business application development.
+- 🚀 Over the last few years I have designed and developed enterprise web applications, RESTful APIs, KPI platforms, multimedia management systems, event platforms, educational tools, and automation solutions.
+
+---
+
+## What I've Built
+
+- Enterprise web applications & internal business management systems
+- RESTful APIs & JSON-based backend services
+- Performance evaluation platforms (KPIs)
+- Content & multimedia management systems
+- Birthday and event management platforms
+- Dynamic PHP-based applications & database-driven web systems
+- Educational platforms, programming courses & automation tools
+
+---
+
+## Professional Experience
+
+### 💻 Backend & Full Stack Development
+
+`PHP` `Python` `JavaScript` `SQL` `REST APIs` `MVC` `Authentication` `Authorization` `Session Management` `File Uploads` `JSON APIs` `AJAX`
+
+### 🗄️ Database Design
+
+Experience designing and maintaining relational databases focused on **performance** and **scalability**.
+
+`MySQL` `MariaDB` `SQLite` `Query Optimization` `Stored Procedures` `Data Modeling` `Normalization` `Performance Tuning`
+
+### ☁️ Cloud & Infrastructure
+
+Experience deploying and maintaining **production applications** on AWS.
+
+`Amazon EC2` `Amazon S3` `Route 53` `IAM` `Security Groups` `SSH` `VPN` `Linux` `Apache` `PHP-FPM` `SSL` `Deployment Automation`
+
+### 🛠️ Software Engineering
+
+Experience building complete software solutions from planning to deployment.
+
+`Agile (Scrum)` `Jira` `System Analysis` `Software Documentation` `Requirement Analysis` `Testing` `Bug Fixing` `Performance Optimization`
+
+### 📚 Teaching & Mentoring
+
+Programming instructor passionate about sharing knowledge. Created complete learning paths covering **Python**, **Linux Administration**, **Kali Linux**, **Databases**, **Backend Development**, and **Programming Fundamentals** — with exercises, documentation, presentations, and practical projects for beginner developers.
+
+---
+
+## Featured Projects
+
+| | Project |
+|---|---|
+| ✔ | Enterprise Performance Evaluation Platform |
+| ✔ | Dynamic Multimedia Management System |
+| ✔ | Birthday Card Sharing Platform |
+| ✔ | Internal Business Management Systems |
+| ✔ | REST APIs & AWS Cloud Deployments |
+| ✔ | File Management & KPI Management Systems |
+| ✔ | Educational Platforms & Automation Scripts |
+
+---
+
+## Current Interests
+
+I'm constantly improving my knowledge in:
+
+`Laravel` `Node.js` `Software Architecture` `AWS Cloud` `DevOps` `Docker` `Clean Code` `Design Patterns` `API Design` `Scalable Backend Systems`
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLopSed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoLopSed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+**Languages**
+
+`PHP` `Python` `JavaScript` `SQL` `HTML5` `CSS3` `Bash`
+
+[![My Skills](https://skillicons.dev/icons?i=php,python,js,html,css,bash&theme=dark)](https://skillicons.dev)
+
+**Backend**
+
+`PHP` `Laravel (Learning)` `Node.js (Learning)` `REST APIs` `AJAX` `JSON` `MVC`
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+`MySQL` `MariaDB` `SQLite`
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb,sqlite&theme=dark)](https://skillicons.dev)
+
+**Cloud & Infrastructure**
+
+`AWS EC2` `AWS S3` `AWS Route 53` `IAM` `Linux` `Apache` `PHP-FPM` `SSH` `VPN` `SSL`
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,bash&theme=dark)](https://skillicons.dev)
+
+**DevOps**
+
+`Git` `GitHub` `CI/CD Fundamentals` `Deployment` `Linux Server Management`
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+`Visual Studio Code` `Cursor` `MySQL Workbench` `Jira` `Postman` `GitHub` `Figma` `Notion`
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,jira,figma,notion&theme=dark)](https://skillicons.dev)
+
 </div>
 
-###
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DiegoLopSed&theme=dracula&hide_border=false&background=282A36&stroke=BD93F9&ring=BD93F9&fire=FF5555&currStreakLabel=50FA7B)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoLopSed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoLopSed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <p>🎓 I'm studying Engineering in Systems and Information Technologies at Universidad del Valle de Puebla.</p>
-  <p>💻 I have 3+ years of experience in backend and full-stack development.</p>
-  <p>🧠 Currently learning: Node.js and Laravel</p>
-  <p>🛠️ I develop RESTful APIs and backend services using PHP, Python, and Node.js.</p>
-  <p>🗄️ Skilled in database design, query optimization, and management with MySQL, MariaDB, and SQLite.</p>
-  <p>☁️ Experienced in AWS services (EC2, S3, Route 53), deployment of scalable applications, and infrastructure maintenance.</p>
-  <p>🧩 Familiar with Git, CI/CD practices, containerized apps, and agile development.</p>
-  <p>🏢 I’ve contributed to internal platforms, file management systems, performance evaluation tools, and multimedia content systems for FFT México.</p>
-  <p>📚 I also have experience as a programming teacher and mentor, helping others grow in software development.</p>
-</div>
+## Contribution Snake
+
 <div align="center">
-  <a href="mailto:diegolopsed160703@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/diego-devop" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/DiegoLopSed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoLopSed/DiegoLopSed/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoLopSed/DiegoLopSed/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoLopSed/DiegoLopSed/output/github-snake-dark.svg">
+</picture>
+
 </div>
 
-###
+---
 
-![snake gif](https://github.com/DiegoLopSed/DiegoLopSed/blob/output/github-snake-dark.svg)
+## Connect with Me
 
-<br clear="both">
+<div align="center">
 
+<a href="mailto:diegolopsed160703@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+</a>
+<a href="https://www.linkedin.com/in/diego-devop" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+</a>
+<a href="https://github.com/DiegoLopSed" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"/>
+</a>
 
-
-###
+</div>
