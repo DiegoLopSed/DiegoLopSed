@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋! I'm Diego López Sedeño
+# Hi 👋! I'm Diego Lopez Sedeño
 
 **Backend & Full Stack Software Developer · Mexico 🇲🇽**
 
